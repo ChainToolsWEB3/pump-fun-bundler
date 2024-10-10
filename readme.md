@@ -8,7 +8,18 @@ This bundler can be used on: https://bundler.pro It contains the following featu
 - Sell single wallet by percentage
 - Sell all wallets completely through Jito Bundle
 
-Launch showcase
+## Fees
+
+- Launch + up to 5 buys: 0.05 SOL
+- Launch + up to 17 buys: 0.1 SOL
+
+## Notes:
+- Use the pump.fun trader screen to sell your tokens afterwards
+- Fees will be deducted within bundle, so you only pay fees if the bundle executes
+- Contact me on telegram if you want to buy some ...pump adresses to use as mint (0.02 SOL each)
+- Private keys are expected in bs58 format
+
+## Launch showcase
 coming soon...
 
 If you're interested in buying the code for this bundler or have other questions/requests, contact me at https://t.me/infinitysup
