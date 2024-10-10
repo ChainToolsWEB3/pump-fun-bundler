@@ -20,6 +20,6 @@ This bundler can be used on: https://bundler.pro It contains the following featu
 - Private keys are expected in bs58 format
 
 ## Launch showcase
-<video src='https://youtu.be/X8KCxpCSMxY?si=lmhdgskoNKqmUCRN' width=180/>
+[Watch videos on YouTube](https://youtu.be/X8KCxpCSMxY?si=lmhdgskoNKqmUCRN)
 
 If you're interested in buying the code for this bundler or have other questions/requests, contact me at https://t.me/infinitysup
